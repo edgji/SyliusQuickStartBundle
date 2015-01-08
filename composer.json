@@ -1,5 +1,5 @@
 {
-    "name": "edgji/SyliusQuickStartBundle",
+    "name": "edgji/sylius-quick-start-bundle",
     "type": "symfony-bundle",
     "description": "A simple helper bundle to get a sandbox install of Sylius.",
     "keywords": [ "sylius" ],
