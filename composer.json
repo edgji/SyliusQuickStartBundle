@@ -1,0 +1,10 @@
+{
+    "name": "edgji/SyliusQuickStartBundle",
+    "type": "symfony-bundle",
+    "description": "A simple helper bundle to get a sandbox install of Sylius.",
+    "keywords": [ "sylius" ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "Edgji\\Bundle\\SyliusQuickStartBundle\\": "" }
+    }
+}
